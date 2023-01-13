@@ -1,0 +1,16 @@
+footer {
+    height: 50px;
+    background-color: lightblue;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+.footer {
+
+    font-size: .7rem;
+    text-align: center;
+    display: inline-block;
+
+}

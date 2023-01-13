@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400;500;600;700&family=Open+Sans:wght@400;500;600;700&family=Roboto:wght@100&display=swap');
+
+.App {
+  font-family: 'Open Sans', sans-serif;
+  text-align: left;
+  box-sizing: border-box;
+  background-color: lightblue;
+
+}
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 150px;
+}
